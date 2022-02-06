@@ -1,0 +1,16 @@
+{
+  "name": "tensorflow",
+  "version": "1.0.0",
+  "description": "",
+  "main": "action01.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@tensorflow/tfjs": "^3.13.0",
+    "@tensorflow/tfjs-node-gpu": "^3.13.0",
+    "ts-node": "^10.4.0"
+  }
+}
